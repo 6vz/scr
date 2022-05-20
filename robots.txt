@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://scr.6vz.pw/sitemap.xml.gz
