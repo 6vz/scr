@@ -1,0 +1,17 @@
+input: .
+output: .retype
+url: https://scr.6vz.pw
+branding:
+  title: Stepford
+  label: Training
+  logo: 
+links:
+- text: Roblox Game
+  link: https://www.roblox.com/games/696347899/V1-8-Stepford-County-Railway
+- text: SCR Discord
+  link: https://discord.gg/scr
+- text: Wiki Fandom
+  link: https://scr.fandom.com/wiki/Stepford_County_Railway_Unofficial_Wikia
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
+favicon: static/scr.ico
