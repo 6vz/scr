@@ -4,7 +4,9 @@ url: https://scr.6vz.pw
 branding:
   title: Stepford
   label: Training
-  logo: 
+edit:
+  repo: "https://github.com/6vz/scr"
+  label: Edit this page (Github w/ Pull Request) 
 links:
 - text: Roblox Game
   link: https://www.roblox.com/games/696347899/V1-8-Stepford-County-Railway
